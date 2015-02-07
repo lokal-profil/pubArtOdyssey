@@ -1,6 +1,6 @@
 import codecs
 import json
-
+import urllib
 
 def makeObject(props):
     md_obj = '''
@@ -18,20 +18,19 @@ def makeYear(md, year, features, previous_coords):
     #something to set zoom
     if previous_coords and len(previous_coords) > 0:
         for c in previous_coords:
-            md += "L.marker([%f, %f]).setIcon(oldIcon).actions.addTo(S.map)\n" % (c[0], c[1])
+            md += "L.marker([%f, %f]).setIcon(oldIcon).actions.addTo(S.map)\n" % (c[1], c[0])
     newCoords = []
     objectlist = []
     imagelist = []
     for f in features:
         newCoords.append(f['coordinates'])
-        md += "L.marker([%f, %f]).actions.addRemove(S.map)\n" % (f['coordinates'][0], f['coordinates'][1])
+        md += "L.marker([%f, %f]).actions.addRemove(S.map)\n" % (f['coordinates'][1], f['coordinates'][0])
         imagelist.append(f['properties']['image'])
         objectlist.append(makeObject(f['properties']))
     md += "```\n"
     #todo select a random image
-    thumburl = "https://commons.wikimedia.org/w/thumb.php?f=%s&width=%d" % (imagelist[0].replace(' ','_').replace('(','\(').replace(')','\)')  , thumb_width)
+    thumburl = "https://commons.wikimedia.org/w/thumb.php?%s&width=%d" % (urllib.urlencode({'f': imagelist[0].replace(' ','_').encode('utf-8')}) , thumb_width)
     md += "![](%s)\n" % thumburl
-
     for o in objectlist:
         md += o
 
