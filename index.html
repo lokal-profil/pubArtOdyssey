@@ -1,0 +1,288 @@
+<!doctype><html><head>
+  <meta charset="utf-8">
+
+  <title>Import slides from external md file</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="stylesheet" href="http://cartodb-libs.global.ssl.fastly.net/cartodb.js/v3/themes/css/cartodb.css">
+  <link rel="stylesheet" href="http://cartodb.github.io/odyssey.js/editor/css/slides.css">
+  <script type="text/javascript" src="//cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+  <script type="text/javascript" src="http://cartodb.github.io/odyssey.js/dist/odyssey.js" charset="UTF-8"></script>
+</head>
+<body>
+<style>
+div#slides_container{top:12px !important;left:50px !important;bottom:auto !important;padding:10px;background: rgba(255,255,255,.7);-webkit-border-radius:5px; -moz-border-radius:5px; border-radius:5px;height:auto !important;bottom:auto !important;}
+div#slides_container #slides, div#slides_container .slide{height:auto !important;}
+#dots{text-align:center;margin:0 0 10px;}
+#dots li a, #slides_container a{color:#333;opacity:1;}
+#dots li a:hover, #dots li a.active, #slides_container a:hover{color:#fb2c2c;opacity:1;}
+#slides_container .slide{padding:0;}
+#slides_container h1{font:bold 20px/20px "Arial";margin:0 0 10px;}
+#slides_container h2{font:normal 12px/12px "Arial";margin:0 0 10px;}
+#slides_container img, #slides_container .slide.scrolled img{width:100%;margin:0 0 10px;}
+#slides_container p, #slides_container span{font:normal 13px/16px "Arial";margin:0 0 10px;}
+#slides_container h1:after, #slides_container h2:after{display:none;}
+#slides_container p:empty{display:none;}
+
+div#credits a{text-decoration:none;}
+img[src='img/crosshair.png']{display:none;}
+</style>
+  <div id="map" style="width: 100%; height: 100%;"></div>
+
+  <div id="slides_container" style="display:block;">
+    <div id="dots"></div>
+
+    <div id="slides"></div>
+
+    <ul id="navButtons">
+      <li><a class="prev"></a></li>
+      <li><a class="next"></a></li>
+    </ul>
+  </div>
+
+  <div id="credits">
+    <span class="title" id="title"></span>
+    <span class="author" id="author"><span>
+  </div>
+
+  <script>
+
+    // add-on to default example
+    var response = $.ajax({
+        url: "pubArtOdyssey.md",
+        dataType: 'text',
+        success: function(data){
+            console.log(data);
+            var script = document.createElement( 'script');
+            script.type = "text/template";
+            script.id = "md_template";
+            $("body").append(script);
+            $("#md_template").text(data);
+        },
+        error: function(){
+            console.log('ajax error');
+        }
+    });
+    // end of add-on
+    
+    
+    //set-up markers
+    oldIcon = L.icon({
+        iconUrl: 'images/selected.svg',
+        iconSize: [25, 41],
+        iconAnchor: [12, 41],
+        popupAnchor: [1, -34],
+        shadowSize: [41, 41]
+    });
+    newIcon = L.icon({
+        iconUrl: 'images/default.svg',
+        iconSize: [25, 41],
+        iconAnchor: [12, 41],
+        popupAnchor: [1, -34],
+        shadowSize: [41, 41]
+    });
+    
+
+    var resizePID;
+
+    function clearResize() {
+      clearTimeout(resizePID);
+      resizePID = setTimeout(function() { adjustSlides(); }, 100);
+    }
+
+    if (!window.addEventListener) {
+      window.attachEvent("resize", function load(event) {
+        clearResize();
+      });
+    } else {
+      window.addEventListener("resize", function load(event) {
+        clearResize();
+      });
+    }
+
+    function adjustSlides() {
+      var container = document.getElementById("slides_container"),
+          slide = document.querySelectorAll('.selected_slide')[0];
+
+      if (slide) {
+        if (slide.offsetHeight+169+40+80 >= window.innerHeight) {
+          container.style.bottom = "80px";
+
+          var h = container.offsetHeight;
+
+          slide.style.height = h-169+"px";
+          slide.classList.add("scrolled");
+        } else {
+          container.style.bottom = "auto";
+          container.style.minHeight = "0";
+
+          slide.style.height = "auto";
+          slide.classList.remove("scrolled");
+        }
+      }
+    }
+
+    var resizeAction = O.Action(function() {
+      function imageLoaded() {
+        counter--;
+
+        if (counter === 0) {
+          adjustSlides();
+        }
+      }
+      var images = $('img');
+      var counter = images.length;
+
+      images.each(function() {
+        if (this.complete) {
+          imageLoaded.call( this );
+        } else {
+          $(this).one('load', imageLoaded);
+        }
+      });
+    });
+
+    function click(el) {
+        var element = O.Core.getElement(el);
+        var t = O.Trigger();
+        element.onclick = function() {
+            t.trigger();
+        }
+    return t;
+    }
+
+    response.done(function(){
+        O.Template({
+          init: function() {
+            var seq = O.Triggers.Sequential();
+
+            var baseurl = this.baseurl = 'http://{s}.api.cartocdn.com/base-light/{z}/{x}/{y}.png';
+            var bounds = [[55.2, 10.8], [69.1, 24.4]];
+            var map = this.map = L.map('map').fitBounds(bounds);
+            map.scrollWheelZoom.disable();
+            var basemap = this.basemap = L.tileLayer(baseurl, {
+              attribution: 'data OSM - map CartoDB'
+            }).addTo(map);
+
+            // enanle keys to move
+            O.Keys().on('map').left().then(seq.prev, seq)
+            O.Keys().on('map').right().then(seq.next, seq)
+
+            click(document.querySelectorAll('.next')).then(seq.next, seq)
+            click(document.querySelectorAll('.prev')).then(seq.prev, seq)
+
+            var slides = O.Actions.Slides('slides');
+            var story = O.Story()
+
+            this.story = story;
+            this.seq = seq;
+            this.slides = slides;
+            this.progress = O.UI.DotProgress('dots').count(0);
+          },
+
+          update: function(actions) {
+            var self = this;
+
+            if (!actions.length) return;
+
+            this.story.clear();
+
+            if (this.baseurl && (this.baseurl !== actions.global.baseurl)) {
+              this.baseurl = actions.global.baseurl || 'http://0.api.cartocdn.com/base-light/{z}/{x}/{y}.png';
+
+              this.basemap.setUrl(this.baseurl);
+            }
+
+            if (this.cartoDBLayer && ("http://"+self.cartoDBLayer.options.user_name+".cartodb.com/api/v2/viz/"+self.cartoDBLayer.options.layer_definition.stat_tag+"/viz.json" !== actions.global.vizjson)) {
+              this.map.removeLayer(this.cartoDBLayer);
+
+              this.cartoDBLayer = null;
+              this.created = false;
+            }
+
+            if (actions.global.vizjson && !this.cartoDBLayer) {
+              if (!this.created) { // sendCode debounce < vis loader
+                cdb.vis.Loader.get(actions.global.vizjson, function(vizjson) {
+                  self.map.fitBounds(vizjson.bounds);
+
+                  cartodb.createLayer(self.map, vizjson)
+                    .done(function(layer) {
+                      self.cartoDBLayer = layer;
+
+                      var sublayer = layer.getSubLayer(0),
+                          layer_name = layer.layers[0].options.layer_name,
+                          filter = actions.global.cartodb_filter ? " WHERE "+actions.global.cartodb_filter : "";
+
+                      sublayer.setSQL("SELECT * FROM "+layer_name+filter)
+
+                      self.map.addLayer(layer);
+
+                      self._resetActions(actions);
+                    }).on('error', function(err) {
+                      console.log("some error occurred: " + err);
+                    });
+                });
+
+                this.created = true;
+              }
+
+              return;
+            }
+
+            this._resetActions(actions);
+          },
+
+          _resetActions: function(actions) {
+            // update footer title and author
+            var title_ = actions.global.title === undefined ? '' : actions.global.title,
+                author_ = actions.global.author === undefined ? 'Using' : 'By '+actions.global.author+' using';
+
+            document.getElementById('title').innerHTML = title_;
+            document.getElementById('author').innerHTML = author_;
+            document.title = title_ + " | " + author_ +' Odyssey.js';
+
+            var sl = actions;
+
+            document.getElementById('slides').innerHTML = ''
+            this.progress.count(sl.length);
+
+            // create new story
+            for(var i = 0; i < sl.length; ++i) {
+              var slide = sl[i];
+              var tmpl = "<div class='slide slide_"+i+"' style='diplay:none;'>";
+
+              tmpl += slide.html();
+              tmpl += "</div>";
+              document.getElementById('slides').innerHTML += tmpl;
+
+              this.progress.step(i).then(this.seq.step(i), this.seq)
+
+              var actions = O.Parallel(
+                this.slides.activate(i),
+                slide(this),
+                this.progress.activate(i),
+                resizeAction
+              );
+
+              actions.on("finish.app", function() {
+                adjustSlides();
+              });
+
+              this.story.addState(
+                this.seq.step(i),
+                actions
+              )
+            }
+
+            this.story.go(this.seq.current());
+          },
+
+          changeSlide: function(n) {
+            this.seq.current(n);
+          }
+        });
+    });
+  </script>
+</body></html>

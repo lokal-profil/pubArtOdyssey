@@ -1,0 +1,3711 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": "k0180\/001",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.063852777778,
+					59.325105555556
+				]
+			},
+			"properties": {
+				"title": "Birger Jarl",
+				"artist": "Bengt Erland Fogelberg",
+				"descr": "",
+				"year": "1854",
+				"year_cmt": "resnings\u00e5r",
+				"type": "Staty",
+				"material": "brons",
+				"inside": 0,
+				"address": "Birger Jarls torg",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Gamla stan",
+				"image": "Statue of Birger jarl Riddarholmstorget september 2011.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-24 12:19:40",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "Q10429912",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "pd",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/002",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.072222222222,
+					59.325555555556
+				]
+			},
+			"properties": {
+				"title": "J\u00e4rnpojken",
+				"artist": "Liss Eriksson",
+				"descr": "",
+				"year": "1967",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "J\u00e4rn",
+				"inside": 0,
+				"address": "Finska kyrkans g\u00e5rd, Bollhust\u00e4ppan",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Gamla stan",
+				"image": "J\u00e4rnpojke.jpeg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-12-19 18:44:42",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "Q500533",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/004",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.061388888889,
+					59.325
+				]
+			},
+			"properties": {
+				"title": "Evert Taube",
+				"artist": "Willy Gordon",
+				"descr": "",
+				"year": "1990",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Evert Taubes Terrass, Riddarholmen",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Gamla stan",
+				"image": "Taube Riddarholmen 2011.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2014-01-06 23:27:06",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/005",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.061694444444,
+					59.324555555556
+				]
+			},
+			"properties": {
+				"title": "Solb\u00e5ten",
+				"artist": "Christian Berg",
+				"descr": "",
+				"year": "1966",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Granit",
+				"inside": 0,
+				"address": "Evert Taubes terrass, Riddarholmen",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Gamla stan",
+				"image": "Solb\u00e5ten skulptur 2011.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-12-11 12:38:16",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "Q10673125",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/006",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.068722222222,
+					59.325
+				]
+			},
+			"properties": {
+				"title": "Tungviktare",
+				"artist": "Sven Lundqvist",
+				"descr": "",
+				"year": "1967",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Brons",
+				"inside": 0,
+				"address": "G\u00e5storget",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Gamla stan",
+				"image": "Tungviktare G\u00e5storget.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-07-02 20:17:00",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/008",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.071388888889,
+					59.322777777778
+				]
+			},
+			"properties": {
+				"title": "B\u00e5gsp\u00e4nnaren",
+				"artist": "Christian Eriksson",
+				"descr": "",
+				"year": "1916",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Kornhamnstorg",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Gamla stan",
+				"image": "B\u00e5gsp\u00e4nnaren 2006.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-24 12:19:40",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "Q10438596",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "pd",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/013",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.0709,
+					59.322817
+				]
+			},
+			"properties": {
+				"title": "Familjen",
+				"artist": "Pye Engstr\u00f6m",
+				"descr": "",
+				"year": "1973",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Brons",
+				"inside": 0,
+				"address": "M\u00e4lartorget",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Gamla stan",
+				"image": "Malartorget 1.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-16 19:56:57",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/015",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.075305555556,
+					59.322333333333
+				]
+			},
+			"properties": {
+				"title": "Sj\u00f6guden",
+				"artist": "Carl Milles",
+				"descr": "",
+				"year": "1931",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "R\u00f6d granit",
+				"inside": 0,
+				"address": "Skeppsbron intill R\u00e4ntm\u00e4startrappan",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Gamla stan",
+				"image": "Milles Sjogud 2008a.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-24 12:19:40",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "Q10669437",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/016",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.074972222222,
+					59.326747222222
+				]
+			},
+			"properties": {
+				"title": "Gustav III",
+				"artist": "Johan Tobias Sergel",
+				"descr": "",
+				"year": "1808",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Skeppsbrokajen",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Gamla stan",
+				"image": "G3staty2010.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-24 12:19:40",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "Q10511146",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "pd",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/018",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.073055555556,
+					59.321666666667
+				]
+			},
+			"properties": {
+				"title": "Karl XIV Johan",
+				"artist": "Bengt Erland Fogelberg",
+				"descr": "",
+				"year": "1854",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Karl Johans Torg, Slussplan 5-11",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Gamla stan",
+				"image": "Karl XIV Johans staty 2011b.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-12-10 18:22:26",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "Q10543746",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "pd",
+				"cmt": "",
+				"owner": "Statens fastighetsverk"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/020",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.070794444444,
+					59.328383333333
+				]
+			},
+			"properties": {
+				"title": "Sols\u00e5ngaren",
+				"artist": "Carl Milles",
+				"descr": "",
+				"year": "1926",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Str\u00f6mparterren",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Gamla stan",
+				"image": "Sols\u00e5ngaren spegeldammen 1950.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-07-02 20:16:59",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/021",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.072828,
+					59.323756
+				]
+			},
+			"properties": {
+				"title": "Yngling bestiger h\u00e4st",
+				"artist": "Ivar Johnsson",
+				"descr": "",
+				"year": "1956",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Granit",
+				"inside": 0,
+				"address": "Tyska stallplan",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Gamla stan",
+				"image": "Tyska_Stallplan_sculpture_March_2007.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-12-10 18:22:26",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/022",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.065467,
+					59.331383
+				]
+			},
+			"properties": {
+				"title": "Girl Making a Face",
+				"artist": "Lena Cronqvist",
+				"descr": "",
+				"year": "2003",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Beridarbansgatan, Brunkebergstorg",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "Girl making a face 1.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-16 19:56:55",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/023",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.074789,
+					59.33255
+				]
+			},
+			"properties": {
+				"title": "J J Berzelius",
+				"artist": "Karl Gustaf Qvarnstr\u00f6m",
+				"descr": "staty \u00f6ver Jacob Berzelius",
+				"year": "1858",
+				"year_cmt": "resnings\u00e5r",
+				"type": "staty",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Berzelii park",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "Statue of J\u00f6ns Jacob Berzelius at Berzelii Pak, Stockholm, Sweden.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-12-10 18:22:26",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "pd",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/024",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.075442,
+					59.332814
+				]
+			},
+			"properties": {
+				"title": "Lekande bj\u00f6rnar",
+				"artist": "Carl Milles",
+				"descr": "",
+				"year": "1909",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Granit",
+				"inside": 0,
+				"address": "Berzelii Park",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "Carl Milles Lekande Bj\u00f6rnar.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-16 19:56:55",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/025",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.074825,
+					59.332183
+				]
+			},
+			"properties": {
+				"title": "Vi tv\u00e5",
+				"artist": "Veikko Ker\u00e4nen",
+				"descr": "",
+				"year": "1994",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Betong",
+				"inside": 0,
+				"address": "Berzelii park",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "Veikko Ker\u00e4nen Vi tv\u00e5.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-12-10 18:22:26",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/026",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.074867,
+					59.333767
+				]
+			},
+			"properties": {
+				"title": "Elliptical Cone",
+				"artist": "Jene Highstein",
+				"descr": "",
+				"year": "2003",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Diabas",
+				"inside": 0,
+				"address": "h\u00f6rnet Birger Jarlsgatan \/ Sm\u00e5landsgatan",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "Jene Highstein Elliptical Cone 02.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-12-10 18:22:26",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Carnegie"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/027",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.075672,
+					59.330528
+				]
+			},
+			"properties": {
+				"title": "De bysantinska h\u00e4starna",
+				"artist": "Sivert Lindblom",
+				"descr": "Sivert Lindblom (gestaltning, kopior av tv\u00e5 h\u00e4star i Markuskyrkan i Venedig",
+				"year": "1989",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Blasieholmstorg",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "Blasieholmen Bysantinsk hast.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-16 19:56:55",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "Q1994701",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "",
+				"cmt": "",
+				"owner": "Handelsbanken"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/028",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.066777777778,
+					59.330694444444
+				]
+			},
+			"properties": {
+				"title": "Gryning",
+				"artist": "Stefan Thor\u00e9n",
+				"descr": "",
+				"year": "1979",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "J\u00e4rn",
+				"inside": 0,
+				"address": "Brunkebergstorg",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "Gryning1.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-24 12:19:40",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "Q10509606",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "Flyttad 2003 fr\u00e5n Medborgarplatsen",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/029",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.05895,
+					59.330467
+				]
+			},
+			"properties": {
+				"title": "Nils Eriksson",
+				"artist": "John B\u00f6rjeson",
+				"descr": "staty \u00f6ver Nils Ericson",
+				"year": "1893",
+				"year_cmt": "resnings\u00e5r",
+				"type": "Font\u00e4nskulptur",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Centralplan",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "Stockholm Centrals staty 2006l.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-24 12:19:40",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "Q10600818",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "pd",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/030",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.05935,
+					59.335883
+				]
+			},
+			"properties": {
+				"title": "Strindbergcitat",
+				"artist": "FA+[Ingrid Falk;Gustav Aguerre]",
+				"descr": "Citat av August Strindberg inf\u00e4llda i gatubel\u00e4ggningen",
+				"year": "1998",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Rostfritt st\u00e5l i gatubel\u00e4ggning",
+				"inside": 0,
+				"address": "l\u00e4ngs med Drottninggatan mellan Apelbergsgatan och Tegn\u00e9rgatan",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "Ingrid Falk Gustav Aguerre Strindbergcitat 02.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-12-10 18:22:26",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "Restes 1997-1998",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/031",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.05967,
+					59.33635
+				]
+			},
+			"properties": {
+				"title": "Triton p\u00e5 delfin",
+				"artist": "Greta Klemming",
+				"descr": "",
+				"year": "1923",
+				"year_cmt": "resnings\u00e5r",
+				"type": "Font\u00e4nskulptur",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Centralbadet, Drottninggatan 88",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "Centralbadet 2009b.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-12-10 18:22:26",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "Q10704707",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/032",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.067777777778,
+					59.329166666667
+				]
+			},
+			"properties": {
+				"title": "R.W.",
+				"artist": "Ulla Kraitz;Gustav Kraitz",
+				"descr": "minnesm\u00e4rke \u00f6ver Raoul Wallenberg",
+				"year": "2012",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Brons",
+				"inside": 0,
+				"address": "utanf\u00f6r Arvfurstens palats vid Gustav Adolfs torg",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "Ulla Kraitz R W.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2015-01-27 16:15:17",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "http:\/\/www.stockholmkonst.se\/konsten\/konstprojekt\/minnesmarke-over-raoul-wallenberg\/",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/033",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.068889,
+					59.328889
+				]
+			},
+			"properties": {
+				"title": "Egyptiska lejon",
+				"artist": "",
+				"descr": "",
+				"year": "1926",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Norrbro vid Gustav Adolfs torg",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "Norrbrolejon 2011b.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-12-10 18:22:26",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "Q10602737",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "",
+				"cmt": "Baserad p\u00e5 \u00e4ldre egyptiska f\u00f6rebilder. Original ca 300 f.Kr",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/034",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.062222222222,
+					59.335
+				]
+			},
+			"properties": {
+				"title": "Orfeusgruppen",
+				"artist": "Carl Milles",
+				"descr": "",
+				"year": "1936",
+				"year_cmt": "resnings\u00e5r",
+				"type": "Font\u00e4nskulptur",
+				"material": "Brons",
+				"inside": 0,
+				"address": "H\u00f6torget",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "Orfeusbrunnen.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-24 12:19:40",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "Q2029723",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/035",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.070292,
+					59.330164
+				]
+			},
+			"properties": {
+				"title": "Jussi Bj\u00f6rling",
+				"artist": "Pieter de Monchy",
+				"descr": "",
+				"year": "1994",
+				"year_cmt": "resnings\u00e5r",
+				"type": "byst",
+				"material": "Brons",
+				"inside": 0,
+				"address": "utanf\u00f6r Jakobs kyrka",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "Pieter de Monchy Jussi Bj\u00f6rling Jakobs kyrka.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-12-11 12:38:16",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "",
+				"cmt": "",
+				"owner": "Kungliga Operan"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/036",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.066194,
+					59.340442
+				]
+			},
+			"properties": {
+				"title": "Karl Staaff",
+				"artist": "Carl Eldh",
+				"descr": "",
+				"year": "1921",
+				"year_cmt": "resnings\u00e5r",
+				"type": "byst",
+				"material": "Granit",
+				"inside": 0,
+				"address": "Karl Staaffs park, Birger Jarlsgatan 55",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "Carl Eldh Karl Staaf.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-12-10 18:22:26",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/038",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.071786,
+					59.330783
+				]
+			},
+			"properties": {
+				"title": "Molins font\u00e4n",
+				"artist": "Johan Peter Molin",
+				"descr": "",
+				"year": "1873",
+				"year_cmt": "resnings\u00e5r",
+				"type": "Font\u00e4nskulptur",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Kungstr\u00e4dg\u00e5rden",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "Molins font\u00e4n juli 2012.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-24 12:19:40",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "Q11989823",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "pd",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/039",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.072422,
+					59.330183
+				]
+			},
+			"properties": {
+				"title": "A Study in Unhuman Sexual Expectations",
+				"artist": "Marianne Lindberg de Geer",
+				"descr": "",
+				"year": "2010",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "",
+				"inside": 0,
+				"address": "Kungstr\u00e4dg\u00e5rden",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "Marianne Lindberg De Geer A Study in Unhuman Sexual Expectations 01.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-16 19:56:52",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "Ing\u00e5r i stadens konstsaml.",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/040",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.065555555556,
+					59.334444444444
+				]
+			},
+			"properties": {
+				"title": "Non Serviam",
+				"artist": "Ernst Nordin",
+				"descr": "",
+				"year": "1980",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Malmskillnadsgatan 25",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "Ernst Nordin Non Serviam.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-24 12:19:40",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "Q10601842",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/041",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.060761,
+					59.331558
+				]
+			},
+			"properties": {
+				"title": "Nils Ferlin",
+				"artist": "Karl G\u00f6te Bejemark",
+				"descr": "staty \u00f6ver Nils Ferlin",
+				"year": "1982",
+				"year_cmt": "resnings\u00e5r",
+				"type": "staty",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Nils Ferlins torg, Klarabergsgatan vid Klara kyrka",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "Nils Ferlin.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-16 19:56:44",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/042",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.054444444444,
+					59.335277777778
+				]
+			},
+			"properties": {
+				"title": "Brantingmonumentet",
+				"artist": "Carl Eldh",
+				"descr": "",
+				"year": "1952",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Norra Bantorget",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "Brantingmonumentet 01.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-24 12:19:40",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "Q4345843",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/043",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.0546,
+					59.335383
+				]
+			},
+			"properties": {
+				"title": "Anna Sterkys minne",
+				"artist": "Christina Rundquist-Andersson",
+				"descr": "relief \u00f6ver Anna Sterky",
+				"year": "1989",
+				"year_cmt": "resnings\u00e5r",
+				"type": "relief",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Norra Bantorget",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "Anna Sterky relief 2012a.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-16 19:57:03",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "Q10412376",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/044",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.054708,
+					59.338911
+				]
+			},
+			"properties": {
+				"title": "M\u00e4ster Palm",
+				"artist": "Ture Johansson",
+				"descr": "staty \u00f6ver August Palm",
+				"year": "1978",
+				"year_cmt": "resnings\u00e5r",
+				"type": "staty",
+				"material": "Brons",
+				"inside": 0,
+				"address": "framf\u00f6r LO-borgen vid Norra Bantorget",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "Ture Johansson M\u00e4ster Palm.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-16 19:57:03",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/045",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.065467,
+					59.335225
+				]
+			},
+			"properties": {
+				"title": "Mitt hj\u00e4rta i v\u00e4rlden",
+				"artist": "Nils Dahlgren",
+				"descr": "",
+				"year": "1989",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Rostfritt st\u00e5l",
+				"inside": 0,
+				"address": "Norra Bantorget",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "Nils Dahlgren Mitt hj\u00e4rta i v\u00e4rlden.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-24 12:19:40",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "Q10586642",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/046",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.073353,
+					59.333192
+				]
+			},
+			"properties": {
+				"title": "Laura",
+				"artist": "Ebba Hedqvist",
+				"descr": "",
+				"year": "1971",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Koppar",
+				"inside": 0,
+				"address": "Norrmalmstorg",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "Ebba Hedqvist Laura.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-16 19:57:03",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/047",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.072725,
+					59.333375
+				]
+			},
+			"properties": {
+				"title": "Frihetens k\u00e4lla",
+				"artist": "Bj\u00f6rn Selder",
+				"descr": "",
+				"year": "1994",
+				"year_cmt": "resnings\u00e5r",
+				"type": "Font\u00e4nskulptur",
+				"material": "Granit",
+				"inside": 0,
+				"address": "Norrmalmstorg",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "Bj\u00f6rn Selder Frihetens k\u00e4lla Norrmalmstorg.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-16 19:57:03",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/048",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.075978,
+					59.332433
+				]
+			},
+			"properties": {
+				"title": "John Ericsson",
+				"artist": "John B\u00f6rjeson",
+				"descr": "",
+				"year": "1901",
+				"year_cmt": "resnings\u00e5r",
+				"type": "byst",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Nybroplan",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "John Ericsson monument Stockholm Nybroplan.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-16 19:57:02",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "pd",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/049",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.061467,
+					59.336117
+				]
+			},
+			"properties": {
+				"title": "Ernst Blomberg",
+				"artist": "Anders J\u00f6nsson",
+				"descr": "",
+				"year": "1938",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Olof Palmes gata 11, utanf\u00f6r IF Metalls entr\u00e9",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "Ernst Blomberg 1956. Anders J\u00f6nsson.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-16 19:56:42",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "Flyttad fr\u00e5n Dalagatan 1",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/050",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.075555555556,
+					59.331944444444
+				]
+			},
+			"properties": {
+				"title": "Till Raoul Wallenberg",
+				"artist": "Kirsten Ortwed",
+				"descr": "Minnesm\u00e4rke \u00f6ver Raoul Wallenberg",
+				"year": "2000",
+				"year_cmt": "resnings\u00e5r",
+				"type": "Skulptur",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Raoul Wallenbergs torg",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "Till Raoul Wallenberg.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-24 12:19:40",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "Q10697887",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/051",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.064736,
+					59.328414
+				]
+			},
+			"properties": {
+				"title": "Morgonbad",
+				"artist": "Anders Zorn",
+				"descr": "",
+				"year": "1910",
+				"year_cmt": "resnings\u00e5r",
+				"type": "Font\u00e4nskulptur",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Rosenbadsparken",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "Anders Zorn Morgonbad.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-16 19:56:44",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "pd",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/053",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.06285,
+					59.334483
+				]
+			},
+			"properties": {
+				"title": "Limpan Lindstr\u00f6m",
+				"artist": "G\u00f6ran Str\u00e5\u00e5t",
+				"descr": "",
+				"year": "1981",
+				"year_cmt": "resnings\u00e5r",
+				"type": "staty",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Sergelgatan",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "G\u00f6ran Str\u00e5\u00e5t Limpan Lindstr\u00f6m.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-16 19:57:00",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/054",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.062967,
+					59.334517
+				]
+			},
+			"properties": {
+				"title": "Sergelminnet",
+				"artist": "G\u00f6ran Str\u00e5\u00e5t",
+				"descr": "staty \u00f6ver Johan Tobias Sergel",
+				"year": "1990",
+				"year_cmt": "resnings\u00e5r",
+				"type": "staty",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Sergelgatan",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "Goran Straat Sergel.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-16 19:57:00",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/055",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.0647,
+					59.33295
+				]
+			},
+			"properties": {
+				"title": "Klara",
+				"artist": "Lasse Andreasson",
+				"descr": "",
+				"year": "1980",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Brons",
+				"inside": 0,
+				"address": "norra sidan av Sergels torg, utanf\u00f6r femte h\u00f6ghuset",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "Klara skulptur 2010a.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-24 12:19:40",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "Q10546035",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "Tillf\u00e4lligt borttagen pga markarbeten p\u00e5 platsen",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/056",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.065258,
+					59.333181
+				]
+			},
+			"properties": {
+				"title": "Di-eder",
+				"artist": "Gert Marcus",
+				"descr": "",
+				"year": "1998",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "St\u00e5l",
+				"inside": 0,
+				"address": "Sveav\u00e4gen, vid Sergels torg",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "Gert Marcus01.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-16 19:57:00",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/057",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.065433,
+					59.332319
+				]
+			},
+			"properties": {
+				"title": "Korssittande flicka",
+				"artist": "Peter Linde",
+				"descr": "",
+				"year": "1989",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Sergels torg",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "Korssittande flicka.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-16 19:57:00",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/058",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.06585,
+					59.3327
+				]
+			},
+			"properties": {
+				"title": "J T Sergel",
+				"artist": "Sivert Lindblom",
+				"descr": "",
+				"year": "1998",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Granit, brons",
+				"inside": 0,
+				"address": "Sergels torg",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "Sivert Lindblom Sergel.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-16 19:56:52",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/059",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.0668,
+					59.328466666667
+				]
+			},
+			"properties": {
+				"title": "Heml\u00f6s r\u00e4v",
+				"artist": "Laura Ford",
+				"descr": "",
+				"year": "2009",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "patinerad brons",
+				"inside": 0,
+				"address": "h\u00f6rnet Str\u00f6mgatan 22 \/ Drottninggatan",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "Blickachsen-7--07-laura-ford-hg-003.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-12-10 18:22:26",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "Ing\u00e5r i stadens konstsaml.",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/060",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.006264,
+					59.335492
+				]
+			},
+			"properties": {
+				"title": "Drottningen och hennes skepp",
+				"artist": "Bj\u00f6rn Erling Evensen",
+				"descr": "",
+				"year": "1969",
+				"year_cmt": "resnings\u00e5r",
+				"type": "Font\u00e4nskulptur",
+				"material": "Rostfritt st\u00e5l",
+				"inside": 0,
+				"address": "Stureplan",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "Bj\u00f6rn Erling Evensen Drottningen och hennes skepp.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-16 19:56:42",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "",
+				"cmt": "OBS! Vattnet p\u00e5 \u00e5ret runt",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/061",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.072416666667,
+					59.336361111111
+				]
+			},
+			"properties": {
+				"title": "H\u00f6ken och duvan",
+				"artist": "Torsten Fridh",
+				"descr": "",
+				"year": "1990",
+				"year_cmt": "resnings\u00e5r",
+				"type": "Font\u00e4nskulptur",
+				"material": "Brons\/granit",
+				"inside": 0,
+				"address": "framf\u00f6r Daneliuska huset vid Stureplan",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "H\u00f6ken och duvan.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2014-09-14 22:31:40",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "Q10532503",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/063",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.064933,
+					59.341417
+				]
+			},
+			"properties": {
+				"title": "Sektorns mekanik - sektorers volym",
+				"artist": "Bertil Herlow Svensson",
+				"descr": "",
+				"year": "1999",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Aluminium",
+				"inside": 0,
+				"address": "Sveav\u00e4gen, mellan M\u00e4ster Samuelsgatan och Oxtorgsgatan",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "Bengt Herlov Svensson Sektorns mekanik Sveav\u00e4gen.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-16 19:56:43",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Moderna Museet"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/064",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.038632,
+					59.33415
+				]
+			},
+			"properties": {
+				"title": "Parabol",
+				"artist": "Ulrik Samuelsson",
+				"descr": "",
+				"year": "2002",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Granit och brons",
+				"inside": 0,
+				"address": "Sveav\u00e4gen",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "Ulrik Samuelsson Parabol.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-16 19:56:42",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/065",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.0633,
+					59.336083
+				]
+			},
+			"properties": {
+				"title": "Minnesplatta",
+				"artist": "Torsten Treutiger",
+				"descr": "",
+				"year": "1994",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Sveav\u00e4gen\/Olof Palmes gata",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "Olof Palme Gedenktafel.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-16 19:56:42",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/066",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.059767,
+					59.32905
+				]
+			},
+			"properties": {
+				"title": "Idealiserad park",
+				"artist": "Olle Nyman",
+				"descr": "",
+				"year": "1967",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Keramik",
+				"inside": 0,
+				"address": "J\u00e4rnv\u00e4gsparken, Tegelbacken",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "J\u00e4rnv\u00e4gsparken 2010a.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-12-10 18:22:26",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "Delar av verket tillf\u00e4lligt borttagna pga arbete p\u00e5 platsen",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/067",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.060283,
+					59.329133
+				]
+			},
+			"properties": {
+				"title": "Parea",
+				"artist": "Ingemar Svensson",
+				"descr": "",
+				"year": "1972",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Koppar",
+				"inside": 0,
+				"address": "J\u00e4rnv\u00e4gsparken, vid Vasagatan",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "J\u00e4rnv\u00e4gsparken 2010b.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-12-10 18:22:26",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/068",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.063714,
+					59.328272
+				]
+			},
+			"properties": {
+				"title": "V\u00e5gen och vindarna",
+				"artist": "Nils Sj\u00f6gren",
+				"descr": "",
+				"year": "1977",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Tegelbacken\/kajen nedanf\u00f6r Centralpalatset",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "Nils Sj\u00f6gren V\u00e5gen och vindarna.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-12-10 18:22:26",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/069",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.0645,
+					59.337067
+				]
+			},
+			"properties": {
+				"title": "E H T\u00f6rnbergs minne",
+				"artist": "Ulf Sucksdorff",
+				"descr": "staty \u00f6ver Ernst Th\u00f6rnberg",
+				"year": "1987",
+				"year_cmt": "resnings\u00e5r",
+				"type": "staty",
+				"material": "Brons",
+				"inside": 0,
+				"address": "vid Brunkebergstunnelns v\u00e4stra ing\u00e5ng",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norrmalm",
+				"image": "E.H. Th\u00f6rnberg, folkbildare. Rest 1987, Ulf Sucksdorff.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2014-10-06 12:17:10",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "Statue of Ernst Th\u00f6rnberg",
+				"official_url": "",
+				"same_as": null,
+				"free": "",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/070",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.005833,
+					59.331667
+				]
+			},
+			"properties": {
+				"title": "Insektsf\u00e5glar",
+				"artist": "Ulf Sucksdorff",
+				"descr": "",
+				"year": "1975",
+				"year_cmt": "resnings\u00e5r",
+				"type": "lekskulptur",
+				"material": "driven m\u00e4ssing",
+				"inside": 0,
+				"address": "Fredh\u00e4llsparken",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Fredh\u00e4ll",
+				"image": "Ulf Sucksdorff Insektsf\u00e5glar.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-11-18 01:26:17",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/071",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.002833,
+					59.332
+				]
+			},
+			"properties": {
+				"title": "Kjolen",
+				"artist": "Anita Brusewitz-Hansson",
+				"descr": "",
+				"year": "1971",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Fredh\u00e4llsparken",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Fredh\u00e4ll",
+				"image": "Anita Brusewitz-Hansson Kjolen.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-11-18 01:26:17",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/072",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.041667,
+					59.334722
+				]
+			},
+			"properties": {
+				"title": "Orfeus-huvud",
+				"artist": "Carl Milles",
+				"descr": "",
+				"year": "2000",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Brons, granit",
+				"inside": 0,
+				"address": "Grubbens tr\u00e4dg\u00e5rd",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Kungsholmen",
+				"image": "Orfeus, Grubbens tr\u00e4dg\u00e5rd.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2014-04-04 12:45:46",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Skanska Sv AB"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/073",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.042,
+					59.335083
+				]
+			},
+			"properties": {
+				"title": "Sk\u00e5despel",
+				"artist": "Sivert Lindblom",
+				"descr": "",
+				"year": "2000",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Brons, granit",
+				"inside": 0,
+				"address": "Grubbens tr\u00e4dg\u00e5rd, Sankt Eriksomr\u00e5det",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Kungsholmen",
+				"image": "Sivert Lindblom, Sk\u00e5despel (1).jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-12-10 18:22:26",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "",
+				"cmt": "",
+				"owner": "Skanska Sv AB"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/074",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.054847,
+					59.328356
+				]
+			},
+			"properties": {
+				"title": "F\u00e5gel Bl\u00e5",
+				"artist": "Tyra Lundgren",
+				"descr": "",
+				"year": "1975",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Klara strandpark",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Kungsholmen",
+				"image": "F\u00e5gel bl\u00e5, Tyra Lundgren.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-11-18 01:26:17",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/078",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.0425,
+					59.328055555556
+				]
+			},
+			"properties": {
+				"title": "Vesslan",
+				"artist": "Otto Strandman",
+				"descr": "",
+				"year": "1912",
+				"year_cmt": "resnings\u00e5r",
+				"type": "Font\u00e4nskulptur",
+				"material": "granit, brons",
+				"inside": 0,
+				"address": "Kungsholmstorg",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Kungsholmen",
+				"image": "Stockholm. Kungsholms Torg.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-24 12:19:40",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "Q10714628",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/079",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.043056,
+					59.328889
+				]
+			},
+			"properties": {
+				"title": "Litet lejon",
+				"artist": "Monika Masser",
+				"descr": "",
+				"year": "2008",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Kungsholmstorg",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Kungsholmen",
+				"image": "Litet lejon 2012b.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-16 19:56:40",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/083",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.020833333333,
+					59.331111111111
+				]
+			},
+			"properties": {
+				"title": "F\u00e4rgtorn",
+				"artist": "Lars Erik Falk",
+				"descr": "",
+				"year": "1981",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Polykromt st\u00e5l",
+				"inside": 0,
+				"address": "n\u00e4ra Lindhagensplan",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Kungsholmen",
+				"image": "F\u00e4rgtorn 2011b.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-24 12:19:40",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "Q10500826",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/084",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.018611,
+					59.3275
+				]
+			},
+			"properties": {
+				"title": "Mariebergsstenen",
+				"artist": "Ragnar Hjort",
+				"descr": "",
+				"year": "1953",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "marmor",
+				"inside": 0,
+				"address": "Mariebergsparken",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Marieberg",
+				"image": "Mariebergsstenen 2011b.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-11-28 14:17:48",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "Q10577296",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/086",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.030849,
+					59.327959
+				]
+			},
+			"properties": {
+				"title": "Fabeldjur",
+				"artist": "Margot Hedeman",
+				"descr": "",
+				"year": "1975",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Norr M\u00e4larstrand \/Baltzar von Platens gata",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Kungsholmen",
+				"image": "Norr Malarstrand park 2009d.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2014-09-14 22:31:40",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "Q10493449",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/088",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.039564,
+					59.326736
+				]
+			},
+			"properties": {
+				"title": "Tuffsen",
+				"artist": "Egon M\u00f6ller-Nielsen",
+				"descr": "",
+				"year": "2002",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Betong",
+				"inside": 0,
+				"address": "Norr M\u00e4larstrand",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Kungsholmen",
+				"image": "Tufsen Norr M\u00e4larstrand.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-11-26 15:59:46",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "Q15220016",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/090",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.053583,
+					59.327114
+				]
+			},
+			"properties": {
+				"title": "Ragnar \u00d6stberg",
+				"artist": "Torwald Alef",
+				"descr": "byst \u00f6ver Ragnar \u00d6stberg",
+				"year": "1972",
+				"year_cmt": "resnings\u00e5r",
+				"type": "byst",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Ragnar \u00d6stbergs plan, vid Stadshusets sydv\u00e4stra h\u00f6rn",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Stadshusparken",
+				"image": "Ragnar \u00d6stberg Kopf.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-16 19:56:47",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/091",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.025342,
+					59.329031
+				]
+			},
+			"properties": {
+				"title": "Domarring",
+				"artist": "Egon M\u00f6ller-Nielsen",
+				"descr": "",
+				"year": "1951",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Betong",
+				"inside": 0,
+				"address": "R\u00e5lambshovsparken",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Kungsholmen",
+				"image": "Egon M\u00f6ller-Nielsen R\u00e5lambshovsparken Djurriksdag.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-16 19:57:05",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/092",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.024283,
+					59.329378
+				]
+			},
+			"properties": {
+				"title": "Fj\u00e4rilen",
+				"artist": "Elli Hemberg",
+				"descr": "",
+				"year": "1980",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Betong",
+				"inside": 0,
+				"address": "R\u00e5lambshovsparken",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Kungsholmen",
+				"image": "Elli Hemberg Fjarilen.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2014-04-22 23:38:20",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/093",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.026837,
+					59.327977
+				]
+			},
+			"properties": {
+				"title": "Monument \u00f6ver yxman",
+				"artist": "Eric Grate",
+				"descr": "",
+				"year": "1967",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Brons",
+				"inside": 0,
+				"address": "R\u00e5lambshovsparken",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Kungsholmen",
+				"image": "Monument \u00f6ver yxman, Eric Grate 1.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2014-04-22 23:38:20",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/094",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.021944444444,
+					59.324722222222
+				]
+			},
+			"properties": {
+				"title": "Fiskfossil",
+				"artist": "Ebba Hedqvist",
+				"descr": "",
+				"year": "1985",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Rostfritt st\u00e5l",
+				"inside": 0,
+				"address": "Smedsudden",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Marieberg, Fredh\u00e4ll och Stadshagen",
+				"image": "Fiskfossil 2011a.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-11-18 01:26:17",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "Q10495796",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/095",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.022777777778,
+					59.325
+				]
+			},
+			"properties": {
+				"title": "Smalsp\u00e5rig v\u00e4xel",
+				"artist": "Inga Bagge",
+				"descr": "",
+				"year": "1990",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "St\u00e5l",
+				"inside": 0,
+				"address": "Smedsudden",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Marieberg, Fredh\u00e4ll och Stadshagen",
+				"image": "Inga Bagge 2008.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-11-18 01:26:17",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "Q10671902",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/099",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.048808,
+					59.333222
+				]
+			},
+			"properties": {
+				"title": "Segel",
+				"artist": "Elli Hemberg",
+				"descr": "",
+				"year": "1974",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Rostfritt st\u00e5l",
+				"inside": 0,
+				"address": "Tekniska n\u00e4mndhuset, Fleminggatan 4",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Kungsholmen",
+				"image": "Elli Hemberg Segel.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-12-10 18:22:26",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/100",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.037717,
+					59.337617
+				]
+			},
+			"properties": {
+				"title": "Treklang",
+				"artist": "Wive Larsson",
+				"descr": "",
+				"year": "1982",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Atlast\u00e4ppan",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Vasastan",
+				"image": "Wive Larsson Treklang.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2014-01-06 23:27:03",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/101",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.047533,
+					59.3384
+				]
+			},
+			"properties": {
+				"title": "Den unge Strindberg i sk\u00e4rg\u00e5rden",
+				"artist": "Carl Eldh",
+				"descr": "staty av August Strindberg",
+				"year": "1968",
+				"year_cmt": "resnings\u00e5r",
+				"type": "staty",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Bellevueparken",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Vasastan",
+				"image": "Strindberg Bellevue.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-16 19:56:56",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/102",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.046633,
+					59.340383
+				]
+			},
+			"properties": {
+				"title": "Eastmanfont\u00e4nen",
+				"artist": "Clarence Blum",
+				"descr": "",
+				"year": "1936",
+				"year_cmt": "resnings\u00e5r",
+				"type": "Font\u00e4nskulptur",
+				"material": "brons, marmor",
+				"inside": 0,
+				"address": "framf\u00f6r Eastmaninstitutet, Dalagatan 11",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Vasastan",
+				"image": "Clarence Blum Easrmanfont\u00e4nen.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-16 19:56:56",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "Q10478920",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/103",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.037667,
+					59.34555
+				]
+			},
+			"properties": {
+				"title": "Arbetare",
+				"artist": "Michail Katz",
+				"descr": "",
+				"year": "1937",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Granit",
+				"inside": 0,
+				"address": "G\u00e4vlegatan\/Hudiksvallsgatan",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Vasastan",
+				"image": "Michail Katz Arbetaren 1937.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-16 19:56:56",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/104",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.0603,
+					59.346317
+				]
+			},
+			"properties": {
+				"title": "Zetterlunden",
+				"artist": "Fredrik Wretman",
+				"descr": "",
+				"year": "2010",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Soffa i tr\u00e4, ljud",
+				"inside": 0,
+				"address": "Monica Zetterlunds park",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Vasastan",
+				"image": "Monica Zetterlunds park Fredrik Wretman.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-16 19:56:41",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholm konst (Stockholms stad)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/105",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.055633,
+					59.34295
+				]
+			},
+			"properties": {
+				"title": "Dansande ungdom",
+				"artist": "Ivar Johnsson",
+				"descr": "",
+				"year": "1937",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Observatorielunden",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Vasastan",
+				"image": "Dansande ungdom.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-12-10 18:22:26",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/107",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.0543,
+					59.342767
+				]
+			},
+			"properties": {
+				"title": "Kentaur",
+				"artist": "Sigrid Fridman",
+				"descr": "",
+				"year": "1939",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Brunkebergs\u00e5sen vid Observatorielunden",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Vasastan",
+				"image": "Kentauren 2011a.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-24 12:19:40",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "Q10544895",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/110",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.047533,
+					59.337517
+				]
+			},
+			"properties": {
+				"title": "Den andre",
+				"artist": "Lone Larsen",
+				"descr": "",
+				"year": "2011",
+				"year_cmt": "resnings\u00e5r",
+				"type": "Font\u00e4nskulptur",
+				"material": "Granit, diabas, patinerad brons",
+				"inside": 0,
+				"address": "Sabbatsbergsparken, Eastmanv\u00e4gen 29-33",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Vasastan",
+				"image": "Lone Larsen, Den andre (2).jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2015-01-27 16:15:17",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "http:\/\/www.stockholmkonst.se\/konsten\/konstprojekt\/den-andre-lone-larsen\/",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholm konst (Stockholms stad)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/113",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.055289,
+					59.33835
+				]
+			},
+			"properties": {
+				"title": "August Strindberg",
+				"artist": "Carl Eldh",
+				"descr": "staty \u00f6ver August Strindberg",
+				"year": "1942",
+				"year_cmt": "resnings\u00e5r",
+				"type": "staty",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Tegn\u00e9rlunden",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Vasastan",
+				"image": "Strindberg eldh.png",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-16 19:57:02",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/114",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.053967,
+					59.338267
+				]
+			},
+			"properties": {
+				"title": "Poesi och f\u00f6rtrollning - till Astrid Lindgren",
+				"artist": "Majalisa Alexanderson",
+				"descr": "",
+				"year": "1996",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Tegn\u00e9rlunden",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Vasastan",
+				"image": "Astrid lindgren skulptur.png",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-16 19:57:01",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/115",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.039633,
+					59.339517
+				]
+			},
+			"properties": {
+				"title": "Arbetaren",
+				"artist": "Gottfrid Larsson",
+				"descr": "",
+				"year": "1917",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Vasaparken vid Torsgatan",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Vasastan",
+				"image": "Arbetaren Larsson 2012.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-12-10 18:22:26",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/117",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.039683,
+					59.345017
+				]
+			},
+			"properties": {
+				"title": "F\u00f6rvandlingar",
+				"artist": "Christopher Gibson",
+				"descr": "",
+				"year": "1984",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Glasfiberarmerad plast",
+				"inside": 0,
+				"address": "Vanadisplan",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Vasastan",
+				"image": "Christopher Gibson F\u00f6rvandlingar 01.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-11-28 14:17:51",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/118",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.037667,
+					59.3412
+				]
+			},
+			"properties": {
+				"title": "Romeo och Julia",
+				"artist": "Olof Thorwald Ohlsson",
+				"descr": "",
+				"year": "1982",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Granit",
+				"inside": 0,
+				"address": "Vasaparken",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Vasastan",
+				"image": "Olof Thorwald Ohlsson Romeo och Julia.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-16 19:57:00",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "Flyttad 1997 fr\u00e5n Kungstr\u00e4dg\u00e5rden",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/119",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.074138888889,
+					59.334888888889
+				]
+			},
+			"properties": {
+				"title": "Eldhs font\u00e4n",
+				"artist": "Carl Eldh",
+				"descr": "",
+				"year": "1921",
+				"year_cmt": "resnings\u00e5r",
+				"type": "Font\u00e4nskulptur",
+				"material": "Granit\/brons",
+				"inside": 0,
+				"address": "Birger Jarlsgatan\/Grev Turegatan",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "\u00d6stermalm",
+				"image": "Font\u00e4n av Carl Eldh.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-24 12:19:40",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "Q10481124",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/120",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.115833333333,
+					59.331666666667
+				]
+			},
+			"properties": {
+				"title": "Sj\u00f6mannen",
+				"artist": "Nils Sj\u00f6gren",
+				"descr": "",
+				"year": "1953",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Djurg\u00e5rdsbrunnsv\u00e4gen 24, Sj\u00f6historiska Museet",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norra Djurg\u00e5rden",
+				"image": "Sj\u00f6mannen.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2014-11-02 15:55:05",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "Q10669468",
+				"commons_cat": "Sj\u00f6mannen",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/121",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.096167,
+					59.325861
+				]
+			},
+			"properties": {
+				"title": "B\u00e5gskytten",
+				"artist": "Carl Milles",
+				"descr": "",
+				"year": "1919",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Djurg\u00e5rdsv\u00e4gen 60, Liljevalchs Konsthall",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Djurg\u00e5rden (S\u00f6dra Djurg\u00e5rden)",
+				"image": "Milles skytte 2007a.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-24 12:19:40",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "Q10438592",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/122",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.065708333333,
+					59.341094444445
+				]
+			},
+			"properties": {
+				"title": "Fordon",
+				"artist": "Karl G\u00f6te Bejemark",
+				"descr": "",
+				"year": "1973",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Cort\u00e9n",
+				"inside": 0,
+				"address": "Eriksbergsplan",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "\u00d6stermalm",
+				"image": "Karl G\u00f6te Bejemark Fordon 03.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2013-10-24 12:19:40",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "Q10497804",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/128",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.104167,
+					59.338056
+				]
+			},
+			"properties": {
+				"title": "Protest",
+				"artist": "Torsten Fridh",
+				"descr": "",
+				"year": "1986",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Granit",
+				"inside": 0,
+				"address": "Hakberget",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "Norra Djurg\u00e5rden",
+				"image": "Protest skulptur 2011b.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2015-01-11 18:10:37",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "Q10640584",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/132",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.072819,
+					59.339092
+				]
+			},
+			"properties": {
+				"title": "Carl von Linn\u00e9",
+				"artist": "Fritiof Kjellberg",
+				"descr": "",
+				"year": "1885",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Humleg\u00e5rden",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "\u00d6stermalm",
+				"image": "Linn\u00e9monumentet.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2014-10-19 22:10:46",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "Q18243862",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "pd",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/133",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.0752,
+					59.340246
+				]
+			},
+			"properties": {
+				"title": "C W Scheele",
+				"artist": "John B\u00f6rjeson",
+				"descr": "staty \u00f6ver Carl Wilhelm Scheele",
+				"year": "1892",
+				"year_cmt": "resnings\u00e5r",
+				"type": "staty",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Floras kulle i Humleg\u00e5rden",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "\u00d6stermalm",
+				"image": "Carl Vilhelm Scheele.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2014-12-17 14:32:51",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "pd",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/135",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.072705,
+					59.340797
+				]
+			},
+			"properties": {
+				"title": "Fredrika Bremer",
+				"artist": "Sigrid Fridman",
+				"descr": "staty \u00f6ver Fredrika Bremer",
+				"year": "1927",
+				"year_cmt": "resnings\u00e5r",
+				"type": "staty",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Humleg\u00e5rden",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "\u00d6stermalm",
+				"image": "Fredrika Bremers staty - Humlan (gabbe).jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2014-12-17 14:32:51",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/137",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.071661,
+					59.341147
+				]
+			},
+			"properties": {
+				"title": "Tuffsen",
+				"artist": "Egon M\u00f6ller-Nielsen",
+				"descr": "",
+				"year": "1949",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Betong",
+				"inside": 0,
+				"address": "lekplatsen Humlan i Humleg\u00e5rden vid Karlav\u00e4gen",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "\u00d6stermalm",
+				"image": "Egon M\u00f6ller-Nielsen Tufsen Humleg\u00e5rden 05.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2014-12-17 14:32:50",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "Q15220016",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/138",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.071659,
+					59.340157
+				]
+			},
+			"properties": {
+				"title": "Cordillera de los Andes",
+				"artist": "Francisco Gazit\u00faa",
+				"descr": "",
+				"year": "2000",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Granit",
+				"inside": 0,
+				"address": "Humleg\u00e5rden",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "\u00d6stermalm",
+				"image": "Cordillera de los Andes - front 2 - 2008-05-29 (gabbe).jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2014-10-19 22:10:46",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/139",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.070646,
+					59.337855
+				]
+			},
+			"properties": {
+				"title": "Isobartema",
+				"artist": "Martin Holmgren",
+				"descr": "",
+				"year": "1970",
+				"year_cmt": "resnings\u00e5r",
+				"type": "",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Humleg\u00e5rden mot Engelbrektsplan",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "\u00d6stermalm",
+				"image": "Martin Holmgren Isobartema 01.JPG",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2014-10-19 22:10:46",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "k0180\/141",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.063672222222,
+					59.343666666667
+				]
+			},
+			"properties": {
+				"title": "Ellen Key",
+				"artist": "Sigrid Fridman",
+				"descr": "staty \u00f6ver Ellen Key",
+				"year": "1953",
+				"year_cmt": "resnings\u00e5r",
+				"type": "Font\u00e4nskulptur",
+				"material": "Brons",
+				"inside": 0,
+				"address": "Ellen Keys park, Karlav\u00e4gen",
+				"county": "SE-AB",
+				"muni": "180",
+				"district": "\u00d6stermalm",
+				"image": "Ellen Key staty.jpg",
+				"source": "k0180",
+				"ugc": 1,
+				"changed": "2014-01-06 23:27:02",
+				"created": "2013-05-31 20:40:41",
+				"wiki": "",
+				"commons_cat": "",
+				"official_url": "",
+				"same_as": null,
+				"free": "unfree",
+				"cmt": "",
+				"owner": "Stockholms stad"
+			}
+		}
+	],
+	"head": {
+		"status": "1",
+		"hits": "0\u2013100 of 232",
+		"limit": 100,
+		"continue": 100
+	}
+}
