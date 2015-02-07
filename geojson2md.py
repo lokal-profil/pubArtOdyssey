@@ -29,7 +29,7 @@ def makeYear(md, year, features, previous_coords):
         objectlist.append(makeObject(f['properties']))
     md += "```\n"
     #todo select a random image
-    thumburl = "https://commons.wikimedia.org/w/thumb.php?f=%s&width=%d" % (imagelist[0].replace(' ','_') , thumb_width)
+    thumburl = "https://commons.wikimedia.org/w/thumb.php?f=%s&width=%d" % (imagelist[0].replace(' ','_').replace('(','\(').replace(')','\)')  , thumb_width)
     md += "![](%s)\n" % thumburl
 
     for o in objectlist:

@@ -8,7 +8,7 @@
 ```
 L.marker([18.072705, 59.340797]).actions.addRemove(S.map)
 ```
-![](https://commons.wikimedia.org/w/thumb.php?f=Fredrika_Bremers_staty_-_Humlan_(gabbe).jpg&width=400)
+![](https://commons.wikimedia.org/w/thumb.php?f=Fredrika_Bremers_staty_-_Humlan_\(gabbe\).jpg&width=400)
 
 ##Fredrika Bremer
 **Sigrid Fridman**, Humlegården
@@ -352,7 +352,7 @@ L.marker([18.075978, 59.332433]).actions.addRemove(S.map)
 L.marker([18.075978, 59.332433]).setIcon(oldIcon).actions.addTo(S.map)
 L.marker([18.047533, 59.337517]).actions.addRemove(S.map)
 ```
-![](https://commons.wikimedia.org/w/thumb.php?f=Lone_Larsen,_Den_andre_(2).jpg&width=400)
+![](https://commons.wikimedia.org/w/thumb.php?f=Lone_Larsen,_Den_andre_\(2\).jpg&width=400)
 
 ##Den andre
 **Lone Larsen**, Sabbatsbergsparken, Eastmanvägen 29-33
