@@ -1,6 +1,7 @@
 import codecs
 import json
 import urllib
+import collections
 
 def makeObject(props):
     md_obj = '''
@@ -52,14 +53,14 @@ for feature in j['features']:
     else:
         byYear[year] = [lump.copy(), ]
 
-md = '''
-```
+md = '''```
 -title: "Public art in Stockholm"
 -author: "Lokal_Profil"
 -baseurl: "https://dnv9my2eseobd.cloudfront.net/v3/cartodb.map-4xtxp73f/{z}/{x}/{y}.png"
 ```
 '''
 
+byYear = collections.OrderedDict(sorted(byYear.items()))
 prev_year = []
 for k, v in byYear.iteritems():
     prev_year, md = makeYear(md, k, v, prev_year)
