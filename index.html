@@ -21,7 +21,7 @@ div#slides_container #slides, div#slides_container .slide{height:auto !important
 #slides_container .slide{padding:0;}
 #slides_container h1{font:bold 20px/20px "Arial";margin:0 0 10px;}
 #slides_container h2{font:normal 12px/12px "Arial";margin:0 0 10px;}
-#slides_container img, #slides_container .slide.scrolled img{width:100%;margin:0 0 10px;}
+#slides_container img, #slides_container .slide.scrolled img{width:100%;margin:0 0 10px;max-height:350px}
 #slides_container p, #slides_container span{font:normal 13px/16px "Arial";margin:0 0 10px;}
 #slides_container h1:after, #slides_container h2:after{display:none;}
 #slides_container p:empty{display:none;}
@@ -159,7 +159,7 @@ img[src='img/crosshair.png']{display:none;}
             var seq = O.Triggers.Sequential();
 
             var baseurl = this.baseurl = 'http://{s}.api.cartocdn.com/base-light/{z}/{x}/{y}.png';
-            var bounds = [[58.5,15.8], [60.1,19.5]];
+            var bounds = [[59.1,17.8], [59.5,18.7]];
             var map = this.map = L.map('map').fitBounds(bounds);
             map.scrollWheelZoom.disable();
             var basemap = this.basemap = L.tileLayer(baseurl, {
