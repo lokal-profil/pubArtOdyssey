@@ -17,21 +17,22 @@ def makeYear(md, year, features, previous_coords):
     md += "#%s\n```\n" % year
     #something to set center
     #something to set zoom
-    if previous_coords and len(previous_coords) > 0:
-        for c in previous_coords:
-            md += "L.marker([%f, %f]).setIcon(oldIcon).actions.addTo(S.map)\n" % (c[1], c[0])
     newCoords = []
     objectlist = []
     imagelist = []
     for f in features:
         newCoords.append(f['coordinates'])
-        md += "L.marker([%f, %f]).actions.addRemove(S.map)\n" % (f['coordinates'][1], f['coordinates'][0])
+        md += "L.marker([%f, %f]).setIcon(newIcon).actions.addRemove(S.map)\n" % (f['coordinates'][1], f['coordinates'][0])
         imagelist.append(f['properties']['image'])
         objectlist.append(makeObject(f['properties']))
+    if previous_coords and len(previous_coords) > 0:
+        for c in previous_coords:
+            md += "L.marker([%f, %f]).setIcon(oldIcon).actions.addTo(S.map)\n" % (c[1], c[0])
     md += "```\n"
     #todo select a random image
     thumburl = "https://commons.wikimedia.org/w/thumb.php?%s&width=%d" % (urllib.urlencode({'f': imagelist[0].replace(' ','_').encode('utf-8')}) , thumb_width)
-    md += "![](%s)\n" % thumburl
+    linkurl = "https://commons.wikimedia.org/wiki/File:%s" % imagelist[0].replace(' ','_')
+    md += "[![](%s)](%s)\n" % (thumburl, linkurl)
     for o in objectlist:
         md += o
 

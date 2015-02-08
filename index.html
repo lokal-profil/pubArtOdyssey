@@ -13,11 +13,8 @@
 </head>
 <body>
 <style>
-div#slides_container{top:12px !important;left:50px !important;bottom:auto !important;padding:10px;background: rgba(255,255,255,.7);-webkit-border-radius:5px; -moz-border-radius:5px; border-radius:5px;height:auto !important;bottom:auto !important;}
+div#slides_container{top:12px !important;left:50px !important;bottom:auto !important;padding:10px;background: rgba(255,255,255,.7);-webkit-border-radius:5px; -moz-border-radius:5px; border-radius:5px;height:auto !important;bottom:auto !important}
 div#slides_container #slides, div#slides_container .slide{height:auto !important;}
-#dots{text-align:center;margin:0 0 10px;}
-#dots li a, #slides_container a{color:#333;opacity:1;}
-#dots li a:hover, #dots li a.active, #slides_container a:hover{color:#fb2c2c;opacity:1;}
 #slides_container .slide{padding:0;}
 #slides_container h1{font:bold 20px/20px "Arial";margin:0 0 10px;}
 #slides_container h2{font:normal 12px/12px "Arial";margin:0 0 10px;}
@@ -26,8 +23,6 @@ div#slides_container #slides, div#slides_container .slide{height:auto !important
 #slides_container h1:after, #slides_container h2:after{display:none;}
 #slides_container p:empty{display:none;}
 
-div#credits a{text-decoration:none;}
-img[src='img/crosshair.png']{display:none;}
 </style>
   <div id="map" style="width: 100%; height: 100%;"></div>
 
@@ -69,14 +64,14 @@ img[src='img/crosshair.png']{display:none;}
     
     
     //set-up markers
-    oldIcon = L.icon({
+    newIcon = L.icon({
         iconUrl: 'images/selected.svg',
         iconSize: [25, 41],
         iconAnchor: [12, 41],
         popupAnchor: [1, -34],
         shadowSize: [41, 41]
     });
-    newIcon = L.icon({
+    oldIcon = L.icon({
         iconUrl: 'images/default.svg',
         iconSize: [25, 41],
         iconAnchor: [12, 41],
@@ -159,7 +154,7 @@ img[src='img/crosshair.png']{display:none;}
             var seq = O.Triggers.Sequential();
 
             var baseurl = this.baseurl = 'http://{s}.api.cartocdn.com/base-light/{z}/{x}/{y}.png';
-            var bounds = [[59.1,17.8], [59.5,18.7]];
+            var bounds = [[59.28,17.95], [59.37,18.2]];
             var map = this.map = L.map('map').fitBounds(bounds);
             map.scrollWheelZoom.disable();
             var basemap = this.basemap = L.tileLayer(baseurl, {
